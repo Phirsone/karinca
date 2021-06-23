@@ -1,0 +1,18 @@
+[13-Jun-2021 21:09:46 Europe/Istanbul] PHP Notice:  Undefined index: kullaniciSifre in /home/gevreaza/emirenes/includes/fonksiyon.inc.php on line 119
+[13-Jun-2021 21:10:13 Europe/Istanbul] PHP Notice:  Undefined index: kullaniciSifre in /home/gevreaza/emirenes/includes/fonksiyon.inc.php on line 119
+[13-Jun-2021 21:11:41 Europe/Istanbul] PHP Notice:  Undefined index: kullaniciSifre in /home/gevreaza/emirenes/includes/fonksiyon.inc.php on line 119
+[13-Jun-2021 21:25:49 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gevreaza_6mTRXTm2DEJp3Y7Y'@'localhost' to database 'gevreaza_karinca' in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[15-Jun-2021 11:19:46 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 12:07:50 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 12:09:59 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 12:33:07 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 12:40:11 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 12:52:45 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 13:02:54 Europe/Istanbul] PHP Warning:  require(inludes/vt.inc.php): failed to open stream: No such file or directory in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 11
+[15-Jun-2021 13:02:54 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'inludes/vt.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 11
+[15-Jun-2021 13:04:38 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 49
+[15-Jun-2021 13:04:54 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 49
+[15-Jun-2021 15:40:29 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 18:16:46 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 50
+[15-Jun-2021 20:08:05 Europe/Istanbul] PHP Warning:  require(PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 56
+[15-Jun-2021 20:08:05 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/gevreaza/emirenes/includes/reset-request.inc.php on line 56

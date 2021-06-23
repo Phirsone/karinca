@@ -1,0 +1,179 @@
+[13-Jun-2021 19:30:12 Europe/Istanbul] PHP Warning:  require_once(includes/vt.inc.php): failed to open stream: No such file or directory in /home/gevreaza/emirenes/karinca.php on line 3
+[13-Jun-2021 19:30:12 Europe/Istanbul] PHP Fatal error:  require_once(): Failed opening required 'includes/vt.inc.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gevreaza/emirenes/karinca.php on line 3
+[13-Jun-2021 19:32:11 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 19:32:42 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:13:41 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:17:15 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:17:16 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:17:35 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:17:35 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:05 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:05 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:07 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:07 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:20 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:20 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:32 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:32 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:42 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:42 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:43 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:43 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:47 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:47 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:18:58 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:22:19 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:23:45 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:25:12 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:29:13 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:30:26 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gevreaza_6mTRXTm2DEJp3Y7Y'@'localhost' to database 'karinca' in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:31:50 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:31:50 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:31:51 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:31:51 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:33:00 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:33:00 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:34:16 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:34:47 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:34:47 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:34:48 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:34:48 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:18 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:18 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:19 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:19 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:19 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:19 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:31 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:31 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:37 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:35:37 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:41:44 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:41:44 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:42:27 Europe/Istanbul] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 20:42:27 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 21:26:09 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gevreaza_6mTRXTm2DEJp3Y7Y'@'localhost' to database 'gevreaza_karinca' in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[13-Jun-2021 21:27:43 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'gevreaza_6mTRXTm2DEJp3Y7Y'@'localhost' to database 'gevreaza_karinca' in /home/gevreaza/emirenes/includes/vt.inc.php on line 8
+[14-Jun-2021 10:53:22 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 42
+[14-Jun-2021 10:53:22 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 73
+[14-Jun-2021 10:53:22 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 75
+[14-Jun-2021 10:53:22 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:27:28 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:27:28 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:27:28 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:27:28 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:47:06 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:47:06 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:47:06 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:47:06 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:47:07 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:47:07 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:47:07 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:47:07 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:47:12 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:47:12 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:47:12 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:47:12 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:47:20 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:49:51 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/gevreaza/emirenes/index.php on line 26
+[15-Jun-2021 08:51:25 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 08:51:25 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 08:51:25 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 08:51:25 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 08:51:27 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 08:51:32 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 08:51:36 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 08:51:40 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:30 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:31 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/index.php on line 21
+[15-Jun-2021 09:04:44 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 44
+[15-Jun-2021 09:04:44 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/profil.php on line 75
+[15-Jun-2021 09:04:44 Europe/Istanbul] PHP Notice:  Undefined index: email in /home/gevreaza/emirenes/profil.php on line 77
+[15-Jun-2021 09:04:44 Europe/Istanbul] PHP Notice:  Undefined index: userid in /home/gevreaza/emirenes/profil.php on line 79
+[15-Jun-2021 09:04:45 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 09:04:46 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 09:05:01 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 09:05:03 Europe/Istanbul] PHP Notice:  Undefined index: username in /home/gevreaza/emirenes/karincalarim.php on line 40
+[15-Jun-2021 18:26:00 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:36:21 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:41:49 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:41:50 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:41:50 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:41:50 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:41:50 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:41:52 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:44:37 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:47:24 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 18:51:25 Europe/Istanbul] PHP Warning:  mail() has been disabled for security reasons in /home/gevreaza/emirenes/mailtest.php on line 9
+[15-Jun-2021 19:07:44 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#5 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2): eval()
+#6 /home/gevreaza/emirenes/asd.php(8): eval()
+#7 {main}
+  thrown in /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[15-Jun-2021 19:08:41 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function set_magic_quotes_runtime() in /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:1
+Stack trace:
+#0 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#5 /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2): eval()
+#6 /home/gevreaza/emirenes/asd.php(8): eval()
+#7 {main}
+  thrown in /home/gevreaza/emirenes/asd.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1
+[15-Jun-2021 19:27:33 Europe/Istanbul] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/gevreaza/emirenes/karincayukle.php on line 55
+[15-Jun-2021 19:27:33 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPuSRcP' to 'karincayuklenenler/' in /home/gevreaza/emirenes/karincayukle.php on line 55
+[15-Jun-2021 20:27:30 Europe/Istanbul] PHP Notice:  Undefined index: selector in /home/gevreaza/emirenes/create-new-password.php on line 20
+[15-Jun-2021 20:27:30 Europe/Istanbul] PHP Notice:  Undefined index: validator in /home/gevreaza/emirenes/create-new-password.php on line 21
+[15-Jun-2021 21:28:03 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'notifier' (T_STRING), expecting ';' or ',' in /home/gevreaza/emirenes/giris.php on line 162
